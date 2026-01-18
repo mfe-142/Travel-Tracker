@@ -63,7 +63,7 @@ The fusion of **Leaflet**'s interactive capabilities with **GeoJSON**'s data rep
 
 **Option 1: Clone the Repository (For Using & Experimenting)**
 ```bash
-git clone https://github.com/otahina/Travel-Tracker-FullStack-Project.git
+git clone https://github.com/mfe-142/Travel-Tracker
 ```
 **Option 2: Fork the Repository (For Contributing)**
 1. Click on the "Fork" button at the top-right corner of this page.
